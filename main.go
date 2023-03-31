@@ -144,6 +144,7 @@ func ParseFlags(opts *ffuf.ConfigOptions) *ffuf.ConfigOptions {
 	return opts
 }
 
+
 func main() {
 
 	var err, optserr error

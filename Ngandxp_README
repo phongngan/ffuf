@@ -1,0 +1,13 @@
+Chỉnh sửa fuff và cài lại vào máy:
+B1. chỉnh code. code chạy bắt đầu từ main() trong main.go
+B2. install lại fuff: Tại project FFUF
+```
+go install
+```
+
+B3. chạy lại lệnh ffuf để kiểm tra
+```
+C:\Users\roses\Documents\GitHub\ffuf>ffuf                                                                                                                                                                                          
+--------1-----------------------------------                                                                                                                                                                                       
+                                                 
+```
